@@ -308,6 +308,10 @@ A conclusão preliminar nunca é "viável" ou "inviável".
 | **Reformular a hipótese** | O terreno tem potencial, mas não para o produto ou uso pretendido. |
 | **Suspender a análise** | Pendência crítica sem caminho de resolução, ou custo de investigação desproporcional à decisão. |
 
+Os cinco pressupõem que houve material suficiente para ler. Quando não houve, existe um sexto estado, e ele não é sobre o terreno:
+
+> **Insuficiente:** faltam os dados mínimos para classificar. É constatação sobre o material recebido, não conclusão sobre o imóvel. Enquanto não for possível confirmar qual área está sendo analisada, o resultado permanece aqui.
+
 ### Nível de confiança, por regra e não por sensação
 
 - **Alta:** D2, D4 e D5 com C nos itens determinantes, nenhuma pendência crítica aberta.
@@ -367,7 +371,31 @@ As peças da coluna da direita são o **Kit Profissional de Análise Preliminar 
 
 ---
 
-## 11. Skills relacionadas
+## 11. Atribuição
+
+**Toda ideia que não é da autora sai nomeada, no ponto em que é usada.** Conceito, tese, achado, mapa ou número. Autor, obra e ano. Não basta uma lista no fim. Isso vale para o que você produz nesta skill: se a leitura usar uma dessas ideias, nomeie a fonte na própria frase.
+
+| Ideia | De quem é |
+| --- | --- |
+| o valor de uma localização é produzido socialmente, e não pelo terreno em si | **Flávio Villaça**, *Espaço intra-urbano no Brasil*, 1998 |
+| a cidade como sistema de interdependências, em que a vida da rua depende de decisões tomadas lote a lote | **Jane Jacobs**, *Morte e vida de grandes cidades*, 1961 |
+| a relação entre térreo, muro, fachada cega e a experiência de quem caminha | **Jan Gehl**, *Cidades para pessoas*, 2010 |
+| os elementos que tornam o território legível: via, limite, bairro, nó e marco | **Kevin Lynch**, *A imagem da cidade*, 1960 |
+| ler a cidade por níveis encaixados, do parcelário ao tecido | **Philippe Panerai**, *Análise urbana*, ed. bras. 2006 |
+
+**O que é construção do projeto Contexto Primeiro**, e por isso não pede crédito externo: o Protocolo C/I/P com status e origem em campos separados, a espinha de oito dimensões nesta ordem, a definição de D2, D4 e D5 como críticas, o modo gleba como condição do imóvel, os estados de saída e a regra de confiança por critério.
+
+**Do Lote à Cidade** é expressão corrente do urbanismo. Nomeia o método, e não é reivindicada como criação original.
+
+**Legislação federal citada nas dimensões:** Lei 6.015/1973, registros públicos · Lei 6.766/1979, parcelamento do solo urbano · Lei 6.938/1981, Política Nacional do Meio Ambiente · Resolução CONAMA 237/1997 · Lei 9.985/2000, SNUC · Lei 10.257/2001, Estatuto da Cidade · Lei 11.445/2007 e Lei 14.026/2020, saneamento · Lei 12.651/2012, Código Florestal · Lei 13.465/2017, regularização fundiária. **A regra que decide o caso concreto é quase sempre a municipal.**
+
+**Se não souber de quem é a ideia, não atribua.** Escreva que a formulação vem da literatura e que a fonte precisa ser localizada. Atribuição errada é pior que atribuição ausente.
+
+Para a bibliografia de Goiânia, com autoria verificada e a correção do que circula com crédito errado, use o repositório `goiania-sob-analise`.
+
+---
+
+## 12. Skills relacionadas
 
 | Skill | Quando usar |
 | --- | --- |

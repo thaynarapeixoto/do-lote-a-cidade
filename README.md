@@ -127,3 +127,28 @@ Não substitui legislação vigente, certidões, levantamento de campo, visita t
 Criadora do **Contexto Primeiro**, projeto de inteligência territorial para decisões antes do projeto.
 
 Licença: ver [`LICENCA.md`](LICENCA.md). Conteúdo em CC BY 4.0, scripts em MIT.
+
+---
+
+## Atribuição
+
+Toda ideia que não é da autora sai nomeada, no ponto em que é usada. A skill carrega essa regra e a lista das referências, na seção 11 de `skills/do-lote-a-cidade/SKILL.md`.
+
+As referências centrais são **Flávio Villaça** (*Espaço intra-urbano no Brasil*, 1998), sobre a produção social do valor de localização, **Jane Jacobs** (1961), **Jan Gehl** (2010), **Kevin Lynch** (1960) e **Philippe Panerai** (ed. bras. 2006), além de dez normas federais citadas nas dimensões.
+
+**O que é construção deste projeto** está declarado na mesma seção: o Protocolo C/I/P com status e origem separados, a espinha de oito dimensões, as três dimensões críticas, o modo gleba e os estados de saída. **Do Lote à Cidade** é expressão corrente do urbanismo e nomeia o método, não é reivindicada como criação original.
+
+Se a fonte de uma ideia não for conhecida, a skill é instruída a dizer isso em vez de atribuir. Atribuição errada é pior que atribuição ausente.
+
+---
+
+## A trilha Contexto Primeiro
+
+| Repositório | O que entrega |
+| --- | --- |
+| [**primeira-leitura-do-terreno**](https://github.com/thaynarapeixoto/primeira-leitura-do-terreno) | o guia gratuito, a ficha de uma página, o checklist de triagem, as fontes públicas e um exemplo aplicado do início ao fim. É por aqui que se começa |
+| **do-lote-a-cidade** · você está aqui | o método completo, instalável como plugin do Claude Code, com o calculador de outorga onerosa |
+| [**dados-abertos-goiania**](https://github.com/thaynarapeixoto/dados-abertos-goiania) | catálogo das bases públicas de Goiânia, com origem documentada e a lista dos números que não resistem à checagem |
+| [**goiania-sob-analise**](https://github.com/thaynarapeixoto/goiania-sob-analise) | bibliografia aberta da cidade, com autoria nomeada e a correção do que circula com crédito errado |
+
+Visão geral do projeto e do método: [github.com/thaynarapeixoto](https://github.com/thaynarapeixoto)
