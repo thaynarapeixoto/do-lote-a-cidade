@@ -47,6 +47,14 @@ Estas regras valem em toda resposta produzida sob esta skill, sem exceção e se
 
 8. **Campo em branco é P, nunca N/A.** "Não aplicável" exige justificativa escrita de por que não se aplica.
 
+### Como escrever
+
+Português brasileiro, rigor técnico, clareza, frases firmes, profundidade sem academicismo.
+
+**Não usar:** travessão, em nenhuma hipótese. Onde caberia um, reescreva a frase com vírgula, ponto ou parênteses. Também fora: linguagem genérica de IA, "revolucionário", "inovador", "transformador", promessa absoluta, jargão sem explicação, falsa precisão, tom de guru e conteúdo de preenchimento.
+
+**Distinguir sempre, no próprio texto:** o que é argumento, o que é evidência e o que é hipótese.
+
 ---
 
 ## 2. Protocolo C/I/P
