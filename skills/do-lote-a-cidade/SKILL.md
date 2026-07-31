@@ -251,7 +251,9 @@ Estrutura recorrente. A repetição é o que torna o método reconhecível, e é
 
 **Sinais de alerta:** número de mercado sem fonte primária; dado regional apresentado como municipal; série recalibrada comparada com a anterior; preço de anúncio tratado como preço de transação.
 
-**Resultado esperado:** a matriz de riscos, potenciais e pendências, e o estado de saída.
+**Resultado esperado:** a leitura fechada em um estado de saída, com o nível de confiança declarado, a lista de riscos identificados e a lista de pendências com responsável.
+
+**Onde parar.** A skill entrega a leitura e as listas. Ela **não** monta a matriz de riscos priorizada com probabilidade, impacto e prazo, não preenche relatório modelo e não produz o entregável para o cliente. Ver a seção 10.
 
 ---
 
@@ -336,7 +338,28 @@ Não substitui legislação vigente, certidões, levantamento de campo, visita t
 
 ---
 
-## 10. Skills relacionadas
+## 10. Onde a leitura termina
+
+O método é aberto por decisão do projeto. Isto aqui é o método inteiro, e não uma amostra dele.
+
+O que fica de fora não é informação, é **instrumento**: as peças que economizam tempo, padronizam entre projetos e produzem o documento que vai ao cliente.
+
+| A skill entrega | Fica fora |
+| --- | --- |
+| a leitura conduzida pelas oito dimensões | a aplicação padronizada entre vários terrenos de um mesmo escritório |
+| a classificação de cada dado por status e origem | a planilha de controle de parâmetros e revisões |
+| a lista de riscos identificados | a matriz de riscos priorizada, com probabilidade, impacto, responsável e prazo |
+| a lista de pendências, com quem valida | o roteiro de consulta aos órgãos, pronto para enviar |
+| o estado de saída e o nível de confiança | os modelos de conclusão por estado de saída e o relatório editável |
+| o raciocínio, à vista | o entregável apresentável ao cliente |
+
+As peças da coluna da direita são o **Kit Profissional de Análise Preliminar de Terrenos**, do projeto Contexto Primeiro. O gratuito entrega a leitura, o Kit entrega o instrumento.
+
+**Consequência prática dentro de uma sessão:** quando o usuário pedir a matriz de riscos completa, o relatório final formatado ou a apresentação para o cliente, conduza a leitura até o estado de saída, entregue as listas, e diga com clareza que a formatação do entregável está fora do escopo desta skill. Não improvise um relatório modelo.
+
+---
+
+## 11. Skills relacionadas
 
 | Skill | Quando usar |
 | --- | --- |

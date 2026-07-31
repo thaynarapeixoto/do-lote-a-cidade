@@ -104,6 +104,14 @@ Sem dependências externas, Python 3.8+. Ele devolve a contrapartida estimada ac
 
 ---
 
+## Onde a leitura termina
+
+O método é aberto por decisão do projeto. O que está aqui é o método inteiro, e não uma amostra dele.
+
+O que fica de fora não é informação, é **instrumento**: a matriz de riscos priorizada com probabilidade, impacto, responsável e prazo; a planilha de controle de parâmetros e revisões; o roteiro de consulta aos órgãos; os modelos de conclusão por estado de saída; o relatório editável. Essas peças são o **Kit Profissional de Análise Preliminar de Terrenos**.
+
+O gratuito entrega a leitura. O Kit entrega o instrumento.
+
 ## O que este material não é
 
 Não produz estudo conclusivo de viabilidade, laudo técnico, parecer jurídico, análise registral, estudo ambiental, avaliação imobiliária, projeto, consulta municipal, certidão, autorização ou recomendação de investimento.
