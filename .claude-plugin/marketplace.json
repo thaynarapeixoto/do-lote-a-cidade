@@ -1,0 +1,14 @@
+{
+  "name": "contexto-primeiro",
+  "description": "Inteligência territorial para decisões antes do projeto. Ferramentas de leitura de terreno para o território brasileiro, com procedência obrigatória de cada dado.",
+  "owner": {
+    "name": "Thaynara Peixoto Guimarães"
+  },
+  "plugins": [
+    {
+      "name": "do-lote-a-cidade",
+      "source": "./",
+      "description": "Leitura preliminar de terrenos no território brasileiro, em oito dimensões, do lote à região, sob o Protocolo C/I/P de evidências. Nenhuma saída de IA é tratada como confirmada."
+    }
+  ]
+}

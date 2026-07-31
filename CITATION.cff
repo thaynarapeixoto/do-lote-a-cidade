@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Do Lote à Cidade"
+message: "Se usar este material, cite conforme abaixo."
+type: software
+authors:
+  - family-names: "Peixoto Guimarães"
+    given-names: "Thaynara"
+    affiliation: "Contexto Primeiro"
+abstract: >-
+  Método de leitura preliminar de terrenos no território brasileiro,
+  empacotado como skills para uso assistido por inteligência artificial.
+  Organiza a investigação em oito dimensões, do lote à região, e submete toda
+  informação ao Protocolo C/I/P, que separa evidência confirmada de inferência
+  e de pendência e registra a origem de cada dado. Nenhuma saída de ferramenta
+  de IA é tratada como confirmada. Material educacional, não substitui
+  legislação vigente, levantamentos, consultas oficiais nem responsabilidade
+  técnica.
+keywords:
+  - análise de terrenos
+  - inteligência territorial
+  - urbanismo
+  - viabilidade preliminar
+  - protocolo de evidências
+  - legislação urbanística
+  - parcelamento do solo
+license:
+  - CC-BY-4.0
+  - MIT
+version: "0.1.0"
+date-released: "2026-07-30"

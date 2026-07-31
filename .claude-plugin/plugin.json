@@ -1,0 +1,27 @@
+{
+  "name": "do-lote-a-cidade",
+  "version": "0.1.0",
+  "description": "Inteligência territorial para decisões antes do projeto, no território brasileiro. Estrutura a leitura preliminar de um terreno em oito dimensões, do lote à região, sob um protocolo de evidências que separa o que está confirmado do que é inferência e do que ainda precisa ser descoberto. Trata legislação municipal, Plano Diretor, parcelamento do solo, restrições ambientais, infraestrutura e glebas. Nenhuma saída de IA é tratada como fato confirmado, e toda conclusão declara seu nível de confiança e o que falta validar.",
+  "author": {
+    "name": "Thaynara Peixoto Guimarães",
+    "copyright": "Copyright (c) 2026 Thaynara Peixoto Guimarães."
+  },
+  "license": "MIT",
+  "keywords": [
+    "analise-de-terreno",
+    "viabilidade-imobiliaria",
+    "inteligencia-territorial",
+    "urbanismo",
+    "plano-diretor",
+    "parcelamento-do-solo",
+    "gleba",
+    "outorga-onerosa",
+    "zoneamento",
+    "legislacao-urbanistica",
+    "due-diligence",
+    "rastreabilidade",
+    "procedencia-de-dados",
+    "brasil",
+    "goiania"
+  ]
+}
